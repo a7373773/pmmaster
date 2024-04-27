@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://a7373773.github.io/pmmaster/sitemap.xml
