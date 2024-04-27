@@ -3,12 +3,41 @@
     <title>产品教练3</title>
     <link href="https://a7373773.github.io/pmmaster/feed.xml" rel="self" />
     <link href="https://a7373773.github.io/pmmaster" />
-    <updated>2024-04-27T16:18:35+08:00</updated>
+    <updated>2024-04-27T16:43:37+08:00</updated>
     <author>
         <name>老陈</name>
     </author>
     <id>https://a7373773.github.io/pmmaster</id>
 
+    <entry>
+        <title>测试Github更新</title>
+        <author>
+            <name>老陈</name>
+        </author>
+        <link href="https://a7373773.github.io/pmmaster/ce-shi-githubgeng-xin.html"/>
+        <id>https://a7373773.github.io/pmmaster/ce-shi-githubgeng-xin.html</id>
+            <category term="行业分析"/>
+            <category term="职场分享"/>
+            <category term="生活记录"/>
+            <category term="数据分析"/>
+            <category term="产品文章"/>
+
+        <updated>2024-04-27T16:43:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试Github更新 测试Github更新 测试Github更新 测试Github更新 测试Github更新测试Github更新
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试Github更新
+测试Github更新
+测试Github更新
+测试Github更新
+测试Github更新测试Github更新</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>新文章测试</title>
         <author>

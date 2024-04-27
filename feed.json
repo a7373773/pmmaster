@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://a7373773.github.io/pmmaster/ce-shi-githubgeng-xin.html",
+            "url": "https://a7373773.github.io/pmmaster/ce-shi-githubgeng-xin.html",
+            "title": "测试Github更新",
+            "summary": "测试Github更新 测试Github更新 测试Github更新 测试Github更新 测试Github更新测试Github更新",
+            "content_html": "<p>测试Github更新\n测试Github更新\n测试Github更新\n测试Github更新\n测试Github更新测试Github更新</p>",
+            "author": {
+                "name": "老陈"
+            },
+            "tags": [
+                   "行业分析",
+                   "职场分享",
+                   "生活记录",
+                   "数据分析",
+                   "产品文章"
+            ],
+            "date_published": "2024-04-27T16:43:37+08:00",
+            "date_modified": "2024-04-27T16:43:37+08:00"
+        },
+        {
             "id": "https://a7373773.github.io/pmmaster/xin-wen-zhang-ce-shi.html",
             "url": "https://a7373773.github.io/pmmaster/xin-wen-zhang-ce-shi.html",
             "title": "新文章测试",
